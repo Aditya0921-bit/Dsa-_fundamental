@@ -1,2 +1,3 @@
 # Dsa-_fundamental
-Dsa problem
+Solving the dsa problem
+
